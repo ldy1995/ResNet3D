@@ -8,7 +8,7 @@ This is a ResNet-based post-processing 3D network for reducing the low-dose nois
 * PyTorch == 1.0.1
 * Python3.6
 * Numpy1.16
-* scipy1.2
+* Scipy1.2
 
 ## Dataset Descriptions
 
