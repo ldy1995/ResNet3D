@@ -18,11 +18,11 @@ This is a ResNet-based post-processing 3D network for reducing the low-dose nois
 
 The following three images show current results of the network for restoring the low-dose CT images at  transverse, coronal and sagittal planes, respectively.
 
-![Fig. 1. Results of transverse planes.](img/ResNet3D_trans.png)
+![Fig. 1. Results of transverse planes.](./img/ResNet3D_trans.png)
 
-![Fig. 2. Results of coronal planes.](img/ResNet3D_Coron.png)
+![Fig. 2. Results of coronal planes.](./img/ResNet3D_Coron.png)
 
-![Fig. 3. Results of sagittal planes](img/ResNet3D_Sagit.png)
+![Fig. 3. Results of sagittal planes](./img/ResNet3D_Sagit.png)
 
 ## Contact
 
