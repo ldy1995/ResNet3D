@@ -1,1 +1,1 @@
-# Folder for save the output of the testinig data
+# Folder for saving the output of the testinig data
