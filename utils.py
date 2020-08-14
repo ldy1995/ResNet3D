@@ -80,7 +80,6 @@ if __name__ == '__main__':
     stride    = [1, 1, 1]
     
     img_data  = io.loadmat(os.path.join(read_path, pat))['img_par']
-    img_patch = Im3Patch(img_data, win, stride)
     
     print('Done!')
 
